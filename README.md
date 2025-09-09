@@ -1,4 +1,14 @@
-## Hi there 👋
+![Header](https://i.pinimg.com/originals/b5/04/dc/b504dc67d762fc77e5be7bf8a30dce2c.jpg)
+- 👋 Hi , I’m Ninjin 👋
+- 👀 Nothing interests me ...😔 
+- 💬 Ask me about 1000-7
+- ⚡ Fun Joke: 
+- What is the difference between a coffin truck driver and a brawl stars player? 
+- The driver of the coffin truck is not happy when the box fell out.
+
+### ME:
+[![Telegramm](https://img.icons8.com/?size=100&id=jZ1z64hEYYLW&format=png&color=000000)](https://t.me/ninjin_m)
+[![VK](https://img.icons8.com/?size=100&id=ejdXn6qQWwvg&format=png&color=000000)](https://www.youtube.com/watch?v=xb0ctrqXg0g)
 
 <!--
 **DNinjin/DNinjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
